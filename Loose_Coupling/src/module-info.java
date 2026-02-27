@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module Loose_Coupling {
+}

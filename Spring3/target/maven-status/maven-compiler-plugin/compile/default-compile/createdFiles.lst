@@ -1,0 +1,6 @@
+com\yash\dao\impl\OracleReport.class
+com\yash\Test.class
+com\yash\dao\impl\SQLReport.class
+com\yash\service\DaoService.class
+com\yash\Confi.class
+com\yash\dao\DaoReport.class
